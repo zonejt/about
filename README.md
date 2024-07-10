@@ -7,4 +7,4 @@ X: https://x.com/tozyonone
 
 E-mail: margycarmela3@gmail.com
 
-GitBook: https://jt-zone-intro.gitbook.io/jt-zone-intro/contact-us
+GitBook: https://jt-zone-intro.gitbook.io/jt-zone-intro
